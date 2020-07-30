@@ -1,0 +1,14 @@
+.listItem {
+  list-style: none;
+  border: 1px solid #000000;
+  border-radius: 3%;
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}
